@@ -1,0 +1,34 @@
+!DOCTYPE html>
+
+<html lang="en-US">
+    <head>
+        <title>HTML Document</title>
+    </head>
+    <body>
+        <h1>hello world</h1>
+        <p>paragraph</p>
+        <img src=""alt="">
+    </body>
+other tags
+//---Semantic tags
+they are tags that carry a particular meaning on how certain item should
+be arranged(they follow a particular structure)
+Examples of ---Semantic tags;header tag,section tag,main,side tag,footer tag.
+all these tags are used to define particular set of elements in a webpage
+
+the header tag is used to define:navigation(i.e home,about,services,contacts us),
+logo(img),social media links with their icons(facebook,x,instagram,)
+sign up/register/sign 
+the nav link holds the navigation elements which are the ul,li,a
+
+lists are used to offer a structured way of laying out informati
+
+
+
+<header>
+     
+    <nav>
+
+    </nav>
+</header>
+</html>

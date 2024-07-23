@@ -1,0 +1,62 @@
+17thh july 2024
+//semantic 
+every tag in html has an opening and a closing tag
+opening
+<>
+closing
+</>
+
+DOCTYPE>>Tells the browser that this document is html document
+its the only tag that is outside html tags
+
+html>>contains data content of the website
+
+head>> contains meta tags,links to other sources(js,css,libraries,framework,fonts)
+title>> title of the page  
+body>>component of the page
+footer
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-with,initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        //tags in html
+        the most common used tags in html are the following:(h,p,b,i.em,strong,article
+        section,a,br,hr,div,)
+        /head tag
+        outlines the important component of a particular website
+        these are things like names of organisations,particular values,product,etc
+        a particular well structured heading tag should not be less than three word and should not exceed six words
+        h1 is the most importsnt heading tag
+        
+        heading tags are arranged and follow a hierachial order
+        the first tag is h1 while the last tag is h6
+        the first heading tag is the largest in font size while the last tag is the smallest in size
+        <h1>hello world</h1>
+        <h2>hello world</h2>
+        <h3>hello world again</h3>
+        <h4>how are you</h4>
+        <h5>hello am coding</h5>
+        <h6>hello am coding again</h6>
+
+        /paragraph tag
+        refers to the informsation or content that is describing
+        a particular heading,giving us more information regarding it
+        <h1>Eustus muchina</h1>
+        <p> i am a software engineer with a degreein computer science and i envission to become the most proficient
+            programmer to ever walk on planet earth,let alone have skills but the hte mindset of a genious
+        </p>
+        /article tag
+        article tag>> contains a detailed explanation to a particular context>> it superceeds the paragraph tag
+        it is commonly used in blogs,newsletters to offer details
+    </body>
+</html>
+
+
+
+
+
