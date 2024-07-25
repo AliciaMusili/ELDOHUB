@@ -1,0 +1,26 @@
+body {
+    div{
+    p {
+      color: blue; /* Equivalent to div p */
+    }
+  }
+  
+  div {
+    > p {
+      font-weight: bold; /* Equivalent to div > p */
+    }
+  }
+  
+  div {
+    + p {
+      margin-top: 20px; /* Equivalent to div + p */
+    }
+  }
+  
+  p {
+    ~ ul {
+      padding-left: 30px; /* Equivalent to p ~ ul */
+    }
+  }
+}
+  

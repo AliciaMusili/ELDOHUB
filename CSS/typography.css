@@ -1,0 +1,14 @@
+h1{
+    color: cadetblue;
+    letter-spacing: 10px;
+    font-style: italic;
+
+}
+p{
+    word-spacing: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+
+}

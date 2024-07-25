@@ -1,0 +1,9 @@
+css>>stands for cascanding style sheet which is used to gives style
+(color,animation,font,backgroundmanipulation,transitions)
+
+
+css structure:block>enclosed is curly brackets,slectors,property,value 
+h1>>selector{
+    color>>property
+    :red:
+}
