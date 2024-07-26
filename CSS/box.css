@@ -1,0 +1,16 @@
+/*padding>>refers to the spacing betweeen the border and the content:the content inside(internal)
+border:the separtor of the padding and the margin
+margin:space between components that hold the contents(on the outskirts)
+
+//padding
+can be categorized into four main */
+padding-left:gives the specified space between the content and the :right border
+padding-right:gives the specified space between the content and the left border
+padding-top:gives the specified space between the content and the top border
+padding-bottom:gives the specified space between the content and the bottom border
+
+//margin
+margin-top:
+margin-bottom:
+margin-left:
+margin-right:
