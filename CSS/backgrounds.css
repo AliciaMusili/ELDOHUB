@@ -1,0 +1,26 @@
+body{
+    background-color:hwb(0 0% 100%);
+    color: blue;
+    
+    background-image: url("trees.jpg");
+}
+p{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed; 
+
+}
+    h2{
+        position: fixed;
+        margin-top: 0;
+        width: 100%;
+        background-color: blueviolet;
+        color: beige;
+    }
+    p{
+        font-size: 20px;
+        
+        color: chartreuse;
+        font-style: calc();
+    }
